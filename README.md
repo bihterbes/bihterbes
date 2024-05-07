@@ -6,7 +6,7 @@
 <div align="center">
   
 
- <img src="https://giffiles.alphacoders.com/171/171318.gif" width="600" height="400"/>
+ <img src="https://giffiles.alphacoders.com/171/171318.gif" width="600" height="300"/>
 
 </div>
 
