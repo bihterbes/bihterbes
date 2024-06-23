@@ -1,12 +1,16 @@
 <h1>
   hey there
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 </h1>
 <div align="center">
-  
+
 
  <img src="https://giffiles.alphacoders.com/171/171318.gif" width="400" height="300"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Present%20day...;Present%20Time!;Hahahaha!&font=Consolas&center=true&width=240&height=45&color=1A9921FF&vCenter=true&size=22">
+</p>
 
 </div>
 
